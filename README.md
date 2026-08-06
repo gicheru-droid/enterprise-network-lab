@@ -46,9 +46,31 @@ Key network segments include:
 
 ![Enterprise Network Topology](Network-topology.png)
 
+## Configuration Highlights
+
+The project includes hands-on configuration and troubleshooting of:
+
+- VLAN creation and assignment
+- Switch port configuration
+- Layer 3 switching and inter-VLAN routing
+- SVI configuration for VLAN gateways
+- IP addressing and subnet design
+- DHCP services
+- Network connectivity testing using ping and troubleshooting commands
+- Access Control Lists (ACLs) for traffic restriction and segmentation
+
+## Skills Demonstrated
+
+- Network design and documentation
+- Cisco switching and routing
+- Enterprise network segmentation
+- Troubleshooting network connectivity issues
+- Virtual lab deployment using GNS3 and VMware
+- 
 ## About Me
 
 IT Support professional transitioning into Network Engineering and Systems Administration.
+
 
 
 
