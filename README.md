@@ -19,9 +19,9 @@ This repository contains my hands-on IT infrastructure projects.
 - Windows Server
 
 
-## Network Toplogy 
+## Network Topology 
 
-![Enterprise Network Topology](network-topology.png)
+![Enterprise Network Topology](Network-topology.png)
 
 ## About Me
 
