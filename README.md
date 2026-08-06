@@ -18,6 +18,16 @@ This repository contains my hands-on IT infrastructure projects.
 - ArubaOS-CX
 - Windows Server
 
+
+## Network Toplogy 
+
+![Enterprise Network Topology] (network-topology.png)
+
+
 ## About Me
 
 IT Support professional transitioning into Network Engineering and Systems Administration.
+
+
+
+
