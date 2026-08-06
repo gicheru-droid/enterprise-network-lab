@@ -18,13 +18,28 @@ The goal of this project is to simulate a real-world enterprise network and prac
 - Network troubleshooting
 - Server administration practice
 
-## Tools Used
+## Network Design & Technologies Used
 
-- GNS3
-- VMware Workstation
-- Cisco IOS
-- ArubaOS-CX
-- Windows Server
+### Network Design
+
+The lab implements an enterprise-style network with multiple VLANs to separate different departments and services.
+
+Key network segments include:
+
+- Guest Network VLAN
+- Administration VLAN
+- CCTV VLAN
+
+### Technologies Used
+
+- GNS3 for network simulation
+- VMware Workstation for virtualization
+- Cisco IOS devices for routing and switching
+- ArubaOS-CX for enterprise switching
+- VLANs for network segmentation
+- Inter-VLAN routing using Layer 3 switching
+- DHCP and IP addressing configuration
+- ACLs for traffic control and security
 
 
 ## Network Topology 
