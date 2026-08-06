@@ -21,8 +21,7 @@ This repository contains my hands-on IT infrastructure projects.
 
 ## Network Toplogy 
 
-![Enterprise Network Topology] (network-topology.png)
-
+![Enterprise Network Topology](network-topology.png)
 
 ## About Me
 
