@@ -66,6 +66,17 @@ The project includes hands-on configuration and troubleshooting of:
 - Enterprise network segmentation
 - Troubleshooting network connectivity issues
 - Virtual lab deployment using GNS3 and VMware
+
+- ## Future Improvements
+
+Planned improvements for this lab include:
+
+- Adding firewall configuration and security policies
+- Implementing dynamic routing protocols
+- Adding network monitoring and logging
+- Expanding the topology with additional enterprise services
+- Improving network documentation and diagrams
+
 - 
 ## About Me
 
