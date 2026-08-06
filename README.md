@@ -44,7 +44,7 @@ Key network segments include:
 
 ## Network Topology 
 
-![Enterprise Network Topology](Network-topology.png)
+![Enterprise Network Topology](screenshots/Network-topology.png)
 
 ## Configuration Highlights
 
