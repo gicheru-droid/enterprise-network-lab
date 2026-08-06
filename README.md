@@ -80,8 +80,6 @@ Planned improvements for this lab include:
 - 
 ## About Me
 
-IT Support professional transitioning into Network Engineering and Systems Administration.
-
-
+IT Support professional building hands-on experience in Network Engineering and Systems Administration through enterprise infrastructure labs and practical projects.
 
 
